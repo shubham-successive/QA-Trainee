@@ -2,4 +2,3 @@
 Niket
 Sahu
 Ravi
-Ushima
